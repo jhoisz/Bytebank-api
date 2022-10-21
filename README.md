@@ -1,4 +1,4 @@
-<h1 align="center"> Bytebank 3️⃣: Flutter com Web API: integrando sua app mobile  </h1>
+<h1 align="center"> Bytebank 3️⃣: Flutter com Web API: integrando o app mobile  </h1>
 
 ## ℹ️ Sobre o projeto
 Aplicação **mobile** desenvolvida durante o curso [Flutter com Web API: integrando sua app mobile](https://cursos.alura.com.br/course/flutter-web-api) de Flutter, na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Alex Felipe](https://cursos.alura.com.br/user/alexfelipe). 
