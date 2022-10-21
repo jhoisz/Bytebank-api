@@ -1,4 +1,4 @@
-<h1 align="center"> :moneybag: 🔁 Bytebank 3️⃣  </h1>
+<h1 align="center"> Bytebank 3️⃣: Flutter com Web API: integrando sua app mobile  </h1>
 
 ## ℹ️ Sobre o projeto
 Aplicação **mobile** desenvolvida durante o curso [Flutter com Web API: integrando sua app mobile](https://cursos.alura.com.br/course/flutter-web-api) de Flutter, na plataforma **[Alura](https://www.alura.com.br/)**, pelo instrutor [Alex Felipe](https://cursos.alura.com.br/user/alexfelipe). 
@@ -34,8 +34,8 @@ Primeiro você deve [instalar flutter](https://docs.flutter.dev/get-started/inst
 Então, você pode clocar e entrar na pasta do projeto:
 
 ```bash
-git clone https://github.com/jhoisz/Bytebank-api
-cd Bytebank-api
+git clone https://github.com/jhoisz/Bytebank_api
+cd Bytebank_api
 ```
 
 Agora, para testar, você deve instalar os pacotes/dependêncas e usar um dispositivo conectado ao seu computador ou usar um emulador:
